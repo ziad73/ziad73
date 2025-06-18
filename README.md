@@ -36,4 +36,4 @@ OOP Principles | Data Structures & Algorithms | SOLID Principles | Design Patter
 
 ✨ **Let's connect and create something impactful together!** ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in//ziad-el-sayed1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in//ziadelsayedx/) 
