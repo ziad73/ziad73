@@ -3,6 +3,7 @@
 **Software Engineer | Competitive Programmer | Problem Solver**  
 - Passionate about building efficient systems and solving complex challenges  
 > Reach me at: [ziadelsayedx@gmail.com](mailto:ziadelsayedx@gmail.com)
+
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in//ziadelsayedx/) 
 
 ## **About Me**:
