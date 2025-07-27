@@ -12,7 +12,7 @@
 
 - **Reach me at**:
 <a href="mailto:hazemadelkhalel@gmail.com">
-  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img align="center" alt="Falguni @Mail" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ziadelsayedx/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
