@@ -6,7 +6,7 @@
 
 ## **Technical Stack**:
 - **Languages**  
-  - Java | C++ | Python |JS | C#
+  - Java | C++ | Python | JS | C#
 - **Technologies**:
   - OOP Principles | Data Structures & Algorithms | SOLID Principles | Design Patterns | ASP.NET Core
 
@@ -17,7 +17,7 @@
 -  Goal-oriented with a focus on continuous learning and growth
 
 
-## **Current Focus**
+## **Current Focus**:
 - Building real-world projects to apply theoretical knowledge
 - Contributing to open-source initiatives
 - Preparing for technical interviews and competitions
