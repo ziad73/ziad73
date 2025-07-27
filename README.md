@@ -1,8 +1,7 @@
 **Software Engineer | Competitive Programmer**  
 - Passionate about building efficient systems and solving complex challenges 
 
-## **About me**:
-- **Languages & Technologies**  
+## **Languages & Technologies**:
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python">
@@ -10,13 +9,13 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" title="C#">
   <img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" title="ASP.NET Core">
 
-- **Reach me at**:
- <a href="mailto:ziadelsayedx@gmail.com">
-  <img align="center" alt="Falguni @Mail" height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
+## **Reach me at**:
  <a href="https://www.linkedin.com/in/ziadelsayedx/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>   
+</a>  
+<a href="mailto:ziadelsayedx@gmail.com">
+  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a> 
  <a href="https://twitter.com/ziadelsaydd">
   <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
 </a>   <a href="https://codeforces.com/profile/ziadelsayed.10">
