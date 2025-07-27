@@ -2,7 +2,7 @@
 - Passionate about building efficient systems and solving complex challenges  
 > Reach me at: [ziadelsayedx@gmail.com](mailto:ziadelsayedx@gmail.com)
 
-><a href="https://twitter.com/ziadelsaydd" target="_blank">
+> <a href="https://twitter.com/ziadelsaydd" target="_blank">
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png" title="X (Twitter)" alt="Twitter">
   </a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://linkedin.com/in//ziadelsayedx/) 
 
