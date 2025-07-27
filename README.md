@@ -8,7 +8,7 @@
 - **Languages**  
   - Java | C++ | Python |JS | C#
 - **Technologies**:
-  - OOP Principles | Data Structures & Algorithms | SOLID Principles | Design Patterns
+  - OOP Principles | Data Structures & Algorithms | SOLID Principles | Design Patterns | ASP.NET Core
 
 ## **About Me**:
 -  Currently leveling up my skills in **Competitive Programming** and **ASP.NET Full-Stack Development**
