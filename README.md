@@ -1,5 +1,3 @@
-# Hi, I'm Ziad El-Sayed!
-
 **Software Engineer | Competitive Programmer**  
 - Passionate about building efficient systems and solving complex challenges  
 > Reach me at: [ziadelsayedx@gmail.com](mailto:ziadelsayedx@gmail.com)
