@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ziad73.ziad73&"  />
-</div>
-
-<br />
-
 **Software Engineer | Competitive Programmer**  
 - Passionate about building efficient systems and solving complex challenges 
 
@@ -35,4 +29,8 @@
 <br>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=ziad73&show_icons=true" alt="ZiadEl-Sayed" /> </p>
 
+<br />
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ziad73.ziad73&"  />
+</div>
