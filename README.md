@@ -32,15 +32,5 @@
 
 <br>
 <br>
-<p > <img src="https://github-readme-stats.vercel.app/api?username=ziad73&show_icons=true" alt="ZiadEl-Sayed" /> </p>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://codeforces.com/profile/ziadelsayed.10">
-        <img width="410" src="https://codeforces-readme-stats.vercel.app/api/card?username=ziadelsayed.10&theme=react" alt="Codeforces Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p class="center"> <img src="https://github-readme-stats.vercel.app/api?username=ziad73&show_icons=true" alt="ZiadEl-Sayed" /> </p>
 
