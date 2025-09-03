@@ -28,7 +28,7 @@
 ### **Current Focus**:
 - Building real-world projects to apply theoretical knowledge
 -  Exploring **Software Design Patterns**, **System Architecture**, and **Algorithm Optimization**
-- Contributing to open-source initiatives
+- Contributing to open-source initiatives. 
 
 <br>
 <br>
