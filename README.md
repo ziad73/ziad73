@@ -1,6 +1,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ziad73.ziad73&" />
 </div>
+
 <br>
 
 **Software Engineer | Competitive Programmer**  
