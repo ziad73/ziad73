@@ -22,9 +22,9 @@
 </a>   <a href="https://codeforces.com/profile/ziadelsayed.10">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>       
-<a href="https://www.hackerrank.com/ziad73">
+<!-- <a href="https://www.hackerrank.com/zelsydd">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
-</a>
+</a> -->
 
 ### **Current Focus**:
 - Building real-world projects to apply theoretical knowledge
