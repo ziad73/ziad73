@@ -3,9 +3,8 @@
 </div>
 
 <br>
+ 
 
-**Software Engineer**  
-- Passionate about building efficient systems and solving complex challenges 
 
 ### **Languages & Technologies**: ###
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> <img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
@@ -28,7 +27,7 @@
 
 ### **Current Focus**:
 - Building real-world projects to apply theoretical knowledge
--  Exploring **Software Design Patterns**, **System Architecture**, and **Algorithm Optimization**
+-  Exploring **Software Design Patterns**, **System Architecture**, and **Algorithm Optimization** and solving complex challenges 
 
 <br>
 <br>
