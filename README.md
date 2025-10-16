@@ -7,18 +7,7 @@
 ### **Languages & Technologies**: ###
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"> <img height="40"  src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
 
-### **Reach me at**: ###
- <a href="https://www.linkedin.com/in/zelsyd/">
-  <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>  
-<a href="mailto:zelsydd@gmail.com">
-  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a> 
- <a href="https://twitter.com/ziadelsyd">
-  <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
-</a>   <a href="https://codeforces.com/profile/ziadelsayed.10">
-  <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
-</a>       
+
 <!-- <a href="https://www.hackerrank.com/zelsydd">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
 </a> -->
@@ -26,6 +15,10 @@
 ### **Current Focus**:
 - Building real-world projects to apply theoretical knowledge
 -  Exploring **Software Design Patterns**, **System Architecture**, and **Algorithm Optimization** and solving complex challenges 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ziadelsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziadelsyd" height="30" width="40" /></a><a href="https://linkedin.com/in/zelsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zelsyd" height="30" width="40" /></a>
 
 <br>
 <br>
