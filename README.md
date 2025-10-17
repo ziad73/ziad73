@@ -10,12 +10,12 @@
 
 <!-- <a href="https://www.hackerrank.com/zelsydd">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
-</a> -->
+</a> 
 
 ### **Current Focus**:
 - Building real-world projects to apply theoretical knowledge
 -  Exploring **Software Design Patterns**, **System Architecture**, and **Algorithm Optimization** and solving complex challenges 
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ziadelsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziadelsyd" height="30" width="40" /></a><a href="https://linkedin.com/in/zelsyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zelsyd" height="30" width="40" /></a>
