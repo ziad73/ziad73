@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ziad73.ziad73&" />
 </div>
 
- ### **Reach me**
+ ### **Reach me**:
  zelsydd@gmail.com
 
 
