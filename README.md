@@ -3,7 +3,7 @@
 </div>
 
  ### **Reach me**:
- zelsydd@gmail.com
+ zelsydd@gmail.com (let's colab)
 
 
 ### **Languages & Technologies**: ###
