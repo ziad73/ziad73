@@ -24,6 +24,4 @@
 
 <br>
 <br>
-<p class="center"> <img src="https://github-readme-stats.vercel.app/api?username=ziad73&show_icons=true" alt="ZiadEl-Sayed" /> </p> 
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ziad73&theme=nord_bright&)-->
+<p class="center"> <img src="https://github-readme-stats.vercel.app/api?username=ziad73&show_icons=true&rank_icon=percentile&hide=contribs,issues" alt="ZiadEl-Sayed" /> </p> 
