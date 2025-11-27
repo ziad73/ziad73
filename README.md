@@ -10,6 +10,7 @@
 <div align="left">
 <img height="30" src="https://skillicons.dev/icons?i=java" height="40" alt="java"> 
 <img height="30" src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp"> 
+<img height="30" src="https://skillicons.dev/icons?i=c" height="40" alt="c"> 
 <img height="30" src="https://skillicons.dev/icons?i=python" height="40" alt="python"> 
 <img height="30" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"> 
 <img height="30" src="https://skillicons.dev/icons?i=cs" height="40" alt="cSharp"> 
