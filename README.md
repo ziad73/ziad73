@@ -17,9 +17,7 @@
 <img height="30" src="https://skillicons.dev/icons?i=net" height="40" alt="dotnet"> 
 <img height="30" src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"> 
 <img height="30" src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"> 
-</div>
 <img height="30" src="https://skillicons.dev/icons?i=git" height="40" alt="git"> 
-</div>
 <img height="30" src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres"> 
 </div>
 
