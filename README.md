@@ -1,6 +1,7 @@
-<div align="right">
+<!-- <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ziad73.ziad73&" />
 </div>
+-->
 
  ### **Reach me**:
  zelsydd@gmail.com (let's colab)
@@ -12,6 +13,7 @@
 <img height="30" src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp"> 
 <img height="30" src="https://skillicons.dev/icons?i=c" height="40" alt="c"> 
 <img height="30" src="https://skillicons.dev/icons?i=python" height="40" alt="python"> 
+<img height="30" src="https://skillicons.dev/icons?i=django" height="40" alt="django">
 <img height="30" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"> 
 <img height="30" src="https://skillicons.dev/icons?i=cs" height="40" alt="cSharp"> 
 <img height="30" src="https://skillicons.dev/icons?i=net" height="40" alt="dotnet"> 
